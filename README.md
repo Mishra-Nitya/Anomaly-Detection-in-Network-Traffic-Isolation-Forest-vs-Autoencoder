@@ -1,4 +1,4 @@
-# 🚨 Network Anomaly Detection using Isolation Forest & Autoencoder
+# 🚨 Anomaly Detection in Network Traffic – Isolation Forest vs Autoencoder
 
 This project applies **machine learning and deep learning** techniques to detect anomalies in network traffic using the **KDD Cup 1999 dataset**. The goal is to compare the performance of a **traditional ML approach (Isolation Forest)** with a **deep learning approach (Autoencoder)** for intrusion detection.
 
